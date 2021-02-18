@@ -119,7 +119,7 @@ img {
 	.g3 {
 		grid-area: 1 / 4 / 3 / 5;
 		background: var(--White);
-		color: var(--Very_dark_blackish_blue);
+		color: var(--Very_dark_grayish_blue);
 	}
 
 	.g4 {
@@ -134,7 +134,7 @@ img {
 	.g5 {
 		grid-area: 2 / 1 / 3 / 2;
 		background: var(--White);
-		color: var(--Very_dark_blackish_blue);
+		color: var(--Very_dark_grayish_blue);
 	}
 }
 
