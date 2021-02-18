@@ -1,0 +1,16 @@
+{
+	"name": "testimonials",
+	"version": "1.0.0",
+	"private": true,
+	"description": "testimonials grid section",
+	"author": "Høussaine Amzil",
+	"scripts": {
+		"format": "prettier --write ."
+	},
+	"prettier": {
+		"trailingComma": "es5",
+		"tabWidth": 4,
+		"semi": false,
+		"useTabs": true
+	}
+}
