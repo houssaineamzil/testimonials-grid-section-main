@@ -47,13 +47,11 @@ img {
 }
 
 .g1 {
-	background: var(--Moderate_violet);
+	background-color: var(--Moderate_violet);
+	background-image: url(./images/bg-pattern-quotation.svg);
+	background-repeat: no-repeat;
+	background-position: right 10% top 0%;
 	color: var(--White);
-}
-
-.g1::before {
-	content: "";
-	background: url(./images/bg-pattern-quotation.svg);
 }
 
 .g2 {
@@ -100,7 +98,10 @@ img {
 
 	.g1 {
 		grid-area: 1 / 1 / 1 / 3;
-		background: var(--Moderate_violet);
+		background-color: var(--Moderate_violet);
+		background-image: url(./images/bg-pattern-quotation.svg);
+		background-repeat: no-repeat;
+		background-position: right 10% top 0%;
 		color: var(--White);
 	}
 
